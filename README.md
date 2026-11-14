@@ -1,19 +1,18 @@
 Simple-Calculator
 A simple and interactive calculator built using HTML, CSS, and JavaScript.
 
-Features
-- Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
-- Modulo operation to calculate remainders.
+Features:-
+- Basic arithmetic operations: Addition, Subtraction, Multiplication, Division and Modulo.
 - Clean and user-friendly interface.
 - Responsive design.
 - Interactive buttons and real-time calculations.
 
-Technologies Used
+Technologies Used:-
 - HTML5
 - CSS3
 - JavaScript
 
-Project Structure
+Project Structure:-
 Calculator/
 │
 ├── index.html
